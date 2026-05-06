@@ -1,6 +1,7 @@
 # 🧠✨ ViEEG: Hierarchical Visual Neural Representation for EEG Brain Decoding
+![Vieeg](Vieeg.png)
 
-*(ICML / 2026)*
+*(International Conference on Machine Learning (ICML) / 2026)*
 
 > Decoding visual information from brain signals is challenging — but also fascinating.  
 > This project is a small step toward understanding how the brain perceives the visual world.
