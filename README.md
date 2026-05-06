@@ -177,12 +177,12 @@ If you find this project helpful, please consider citing:
 }
 
 @article{liu2025vieeghierarchicalvisualneural,
-      title={ViEEG: Hierarchical Visual Neural Representation for EEG Brain Decoding}, 
-      author={Minxu Liu and Donghai Guan and Chuhang Zheng and Chunwei Tian and Jie Wen and Qi Zhu},
-      year={2025},
-      eprint={2505.12408},
-      archivePrefix={arXiv},
-      url={https://arxiv.org/abs/2505.12408}, 
+  title={ViEEG: Hierarchical Visual Neural Representation for EEG Brain Decoding}, 
+  author={Minxu Liu and Donghai Guan and Chuhang Zheng and Chunwei Tian and Jie Wen and Qi Zhu},
+  year={2025},
+  eprint={2505.12408},
+  archivePrefix={arXiv},
+  url={https://arxiv.org/abs/2505.12408}, 
 }
 ```
 
