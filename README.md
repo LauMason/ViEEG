@@ -2,7 +2,7 @@
 
 <p align="center">
     <a href="https://github.com/LauMason/ViEEG/blob/main/LICENSE" target="blank">
-    <img src="https://github.com/LauMason/ViEEG?style=flat-square" alt="github-profile-readme-generator license" />
+    <img src="https://img.shields.io/github/license/LauMason/ViEEG?style=flat-square" alt="github-profile-readme-generator license" />
     </a>
     <a href="https://github.com/LauMason/ViEEG/fork" target="blank">
     <img src="https://img.shields.io/github/forks/LauMason/ViEEG?style=flat-square" alt="github-profile-readme-generator forks"/>
