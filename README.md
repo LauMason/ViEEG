@@ -1,4 +1,25 @@
 # 🧠✨ ViEEG: Hierarchical Visual Neural Representation for EEG Brain Decoding
+
+<p align="center">
+    <a href="https://github.com/LauMason/ViEEG/blob/main/LICENSE" target="blank">
+    <img src="https://github.com/LauMason/ViEEG?style=flat-square" alt="github-profile-readme-generator license" />
+    </a>
+    <a href="https://github.com/LauMason/ViEEG/fork" target="blank">
+    <img src="https://img.shields.io/github/forks/LauMason/ViEEG?style=flat-square" alt="github-profile-readme-generator forks"/>
+    </a>
+    <a href="https://github.com/LauMason/ViEEG/stargazers" target="blank">
+    <img src="https://img.shields.io/github/stars/LauMason/ViEEG?style=flat-square" alt="github-profile-readme-generator stars"/>
+    </a>
+    <a href="https://github.com/LauMason/ViEEG/issues" target="blank">
+    <img src="https://img.shields.io/github/issues/LauMason/ViEEG?style=flat-square" alt="github-profile-readme-generator issues"/>
+    </a>
+    <a href="https://github.com/LauMason/ViEEG/pulls" target="blank">
+    <img src="https://img.shields.io/github/issues-pr/LauMason/ViEEG?style=flat-square" alt="github-profile-readme-generator pull-requests"/>
+    </a>
+</p>
+
+[[Project Website](https://icml.cc/virtual/2026/poster/65430)] | [[Paper](https://arxiv.org/abs/2505.12408)]
+
 ![Vieeg](Vieeg.png)
 
 *(International Conference on Machine Learning (ICML) / 2026)*
