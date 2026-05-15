@@ -197,7 +197,7 @@ If you find this project helpful, please consider citing:
   year={2026}
 }
 
-@article{liu2025vieeghierarchicalvisualneural,
+@article{liu2025vieeg,
   title={ViEEG: Hierarchical Visual Neural Representation for EEG Brain Decoding}, 
   author={Minxu Liu and Donghai Guan and Chuhang Zheng and Chunwei Tian and Jie Wen and Qi Zhu},
   year={2025},
